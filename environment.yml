@@ -8,6 +8,6 @@ dependencies:
   - panel
   - lxml
   - pip:
-    - git+git://github.com/pyvista/pyvista@master
+    - git+git://github.com/tkoyama010/pyvista@patch-3
     - matplotlib
     - pyct
