@@ -2,7 +2,7 @@ pyvista-examples
 ================
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/pyvista/pyvista-examples/master
+   :target: https://mybinder.org/v2/gh/tkoyama010/pyvista-examples/patch-1
    :alt: Launch on Binder
 
 
